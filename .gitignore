@@ -1,0 +1,10 @@
+data/
+datasets/
+*.csv
+*.json
+*.zip
+venv/
+__pycache__
+*.pt
+*.ckpt
+*.log
